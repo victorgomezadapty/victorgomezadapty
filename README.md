@@ -16,13 +16,13 @@ Based in Riyadh 🇸🇦, where I coordinate physiotherapy service delivery acro
 
 | Project | What it is | Status |
 |---------|-----------|--------|
-| [**PhysioFlow**](https://github.com/victorgomezadapty/physioflow) | Six-agent research workflow that assists clinical literature search, study organization, screening, and evidence synthesis | MVP · human-supervised |
-| [**Optimo Physio Platform**](https://github.com/victorgomezadapty/optimo-physio) | Internal physiotherapy operations platform deployed across three fitness-club locations | In production |
-| [**Spine Diagnostic**](https://victor-gomez-portfolio.vercel.app) | Bilingual functional back-risk assessment and workplace analytics product | Live MVP |
-| [**Gym Digital Twin**](https://victor-gomez-portfolio.vercel.app) | Anonymized decision-support prototype built from local exports covering 44 months of sales and 32 months of access records | Prototype · under evaluation |
-| [**ADAPTY**](https://adapty.global) | Adaptive health concept connecting work, training, nutrition, sleep, recovery, and mindset | Active startup · customer discovery (Misk Launchpad) |
+| [**PhysioFlow**](https://victor-gomez-portfolio.vercel.app/projects/physioflow) | Six-agent research workflow that assists clinical literature search, study organization, screening, and evidence synthesis | MVP · human-supervised |
+| [**Optimo Physio Platform**](https://victor-gomez-portfolio.vercel.app/projects/optimo-physio-platform) | Internal physiotherapy operations platform deployed across three fitness-club locations | In production |
+| [**Spine Diagnostic**](https://victor-gomez-portfolio.vercel.app/projects/spine-diagnostic) | Bilingual functional back-risk assessment and workplace analytics product | Live MVP |
+| [**Gym Digital Twin**](https://victor-gomez-portfolio.vercel.app/projects/gym-digital-twin) | Anonymized decision-support prototype built from local exports covering 44 months of sales and 32 months of access records | Prototype · under evaluation |
+| [**ADAPTY**](https://victor-gomez-portfolio.vercel.app/projects/adapty) | Adaptive health concept connecting work, training, nutrition, sleep, recovery, and mindset | Active startup · customer discovery (Misk Launchpad) |
 
-More context and visuals for each on my [portfolio](https://victor-gomez-portfolio.vercel.app).
+Each links to its full case study. Live demos: [PhysioFlow code](https://github.com/victorgomezadapty/physioflow) · [Spine Diagnostic](https://spine-diagnostic-six.vercel.app) · [ADAPTY](https://adapty.global). Code for the public projects is in the pinned repositories below.
 
 ---
 
