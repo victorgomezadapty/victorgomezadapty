@@ -4,7 +4,7 @@
 
 I work at the intersection of the human body, movement, and data. I turn signals from health, training, recovery and operations into clearer decisions for people and organizations.
 
-Based in Riyadh 🇸🇦, where I coordinate physiotherapy service delivery across three Optimo clubs (Armah Sports). PhD candidate in Physical Activity and Sport. Founder of [ADAPTY](https://adapty.global).
+Based in Riyadh 🇸🇦, working as a Personal Trainer and supporting the implementation, integration, and consistent delivery of physiotherapy services across three Optimo clubs (Armah Sports). Doctoral researcher in Physical Activity and Sport (PhD in progress, expected 2028). Founder of [ADAPTY](https://adapty.global).
 
 > "I didn't leave physiotherapy to do technology. Physiotherapy is the reason the technology I build makes sense."
 
@@ -22,7 +22,7 @@ Based in Riyadh 🇸🇦, where I coordinate physiotherapy service delivery acro
 | [**Gym Digital Twin**](https://victor-gomez-portfolio.vercel.app/projects/gym-digital-twin) | Anonymized decision-support prototype built from local exports covering 44 months of sales and 32 months of access records | Prototype · under evaluation |
 | [**ADAPTY**](https://victor-gomez-portfolio.vercel.app/projects/adapty) | Adaptive health concept connecting work, training, nutrition, sleep, recovery, and mindset | Active startup · customer discovery (Misk Launchpad) |
 
-Each project links to its full case study. **Live demos:** [Spine Diagnostic](https://spine-diagnostic-six.vercel.app) · [ADAPTY](https://adapty.global). **Public code:** [physioflow](https://github.com/victorgomezadapty/physioflow) · [spine-diagnostic](https://github.com/victorgomezadapty/spine-diagnostic) · [adapty-body-composition](https://github.com/victorgomezadapty/adapty-body-composition) · [physio-academy-lms](https://github.com/victorgomezadapty/physio-academy-lms).
+Each project links to its full case study. **Live demos:** [Spine Diagnostic](https://spine-diagnostic-six.vercel.app) · [ADAPTY](https://adapty.global). **Public code:** [physioflow](https://github.com/victorgomezadapty/physioflow) · [spine-diagnostic](https://github.com/victorgomezadapty/spine-diagnostic) · [adapty-body-composition](https://github.com/victorgomezadapty/adapty-body-composition).
 
 ---
 
@@ -34,13 +34,15 @@ Fourteen years of clinical and operations judgment, plus applied data and AI (ag
 
 ## 🛠️ Tech I work with
 
+I use AI-assisted software development to translate clinical and operational knowledge into functional prototypes.
+
 **AI / LLMs**  
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-ChatGPT-412991?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/-DeepSeek-4D6BFE?style=flat)
 
-**Full-stack**  
+**Product development tools**  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
@@ -67,7 +69,7 @@ Fourteen years of clinical and operations judgment, plus applied data and AI (ag
 ## 🎓 Selected credentials
 
 - PhD in Physical Activity and Sport, UNINI Mexico / FUNIBER (in progress, 2025 to 2028)
-- MSc Data Science and Complex Data Analysis, UCAM, Spain (60 ECTS)
+- Master of Continuing Education in Data Science and Complex Data Analysis, UCAM, Spain (60 ECTS)
 - MSc Sports Rehabilitation and Training, EUNEIZ, Spain (90 ECTS)
 - AI for Medicine Professional Certificate, plus RAG and Agentic AI, DeepLearning.AI
 - Healthcare Management and Finance, University of Michigan
