@@ -22,7 +22,7 @@ Based in Riyadh 🇸🇦, where I coordinate physiotherapy service delivery acro
 | [**Gym Digital Twin**](https://victor-gomez-portfolio.vercel.app/projects/gym-digital-twin) | Anonymized decision-support prototype built from local exports covering 44 months of sales and 32 months of access records | Prototype · under evaluation |
 | [**ADAPTY**](https://victor-gomez-portfolio.vercel.app/projects/adapty) | Adaptive health concept connecting work, training, nutrition, sleep, recovery, and mindset | Active startup · customer discovery (Misk Launchpad) |
 
-Each links to its full case study. Live demos: [PhysioFlow code](https://github.com/victorgomezadapty/physioflow) · [Spine Diagnostic](https://spine-diagnostic-six.vercel.app) · [ADAPTY](https://adapty.global). Code for the public projects is in the pinned repositories below.
+Each project links to its full case study. **Live demos:** [Spine Diagnostic](https://spine-diagnostic-six.vercel.app) · [ADAPTY](https://adapty.global). **Public code:** [physioflow](https://github.com/victorgomezadapty/physioflow) · [spine-diagnostic](https://github.com/victorgomezadapty/spine-diagnostic) · [adapty-body-composition](https://github.com/victorgomezadapty/adapty-body-composition) · [physio-academy-lms](https://github.com/victorgomezadapty/physio-academy-lms).
 
 ---
 
