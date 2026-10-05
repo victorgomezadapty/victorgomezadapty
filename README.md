@@ -28,7 +28,7 @@ Each project links to its full case study. **Live demos:** [Spine Diagnostic](ht
 
 ## 🎯 How I create value
 
-Fourteen years of clinical and operations judgment, plus applied data and AI (agentic workflows, RAG, evidence retrieval), in one person. I build human-supervised tools where the clinical thinking and the engineering both have to be right. The clinic is the reason the technology makes sense.
+Fourteen years across fitness, training, education and operations, complemented by physiotherapy, applied data and AI. I build human-supervised tools where domain knowledge, clinical reasoning and engineering need to work together.
 
 ---
 
