@@ -112,7 +112,7 @@ Component studies, in atlas order:
 
 How vision and support surface change quiet-stance postural sway: closing the eyes added 0.65 cm/s more mean COP velocity on foam than on a firm surface in 158 participants with all four conditions. Includes reproducible analysis, participant-level inference and explicit clinical limits.
 
-[Case study](https://victor-gomez-portfolio.vercel.app/projects/hbedb-postural-sway) · [Code](https://github.com/victorgomezadapty/hbedb-postural-sway) · [Kaggle derived outputs](https://www.kaggle.com/datasets/vctorandrsgmezlpez/human-balance-evaluation-postural-sway)
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/hbedb-postural-sway) · [Code](https://github.com/victorgomezadapty/hbedb-postural-sway) · [Kaggle derived outputs](https://www.kaggle.com/datasets/vctorandrsgmezlpez/hbedb-quiet-stance-sway-vision-and-surface)
 
 **[Spine Diagnostic](https://victor-gomez-portfolio.vercel.app/projects/spine-diagnostic)** · Live MVP · Evidence-based screening
 
