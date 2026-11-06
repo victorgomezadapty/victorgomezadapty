@@ -76,11 +76,11 @@ Analysis of member frequency, behavioral churn risk, retention signals and busin
 
 ## Projects by area
 
-19 published projects, in the portfolio order. The three Sports Rehab Intelligence studies are nested under that project and included in the 19. Each name links to its case study.
+20 published projects, in the portfolio order. The three Sports Rehab Intelligence studies are nested under that project and included in the 20. Each name links to its case study.
 
 ### [Rehabilitation](https://victor-gomez-portfolio.vercel.app/projects#rehabilitation)
 
-8 projects. Screening, movement and measurement questions grounded in rehabilitation.
+9 projects. Screening, movement and measurement questions grounded in rehabilitation.
 
 **[Sports Rehab Intelligence](https://victor-gomez-portfolio.vercel.app/projects/sports-rehab-intelligence)** · Featured · Evidence atlas · Reproducible release 1.0
 
@@ -107,6 +107,12 @@ Component studies, in atlas order:
   15,603 recorded absences across five European leagues, explored through a bilingual burden matrix, a recording-sensitivity audit and a public reproducibility release.
 
   [Case study](https://victor-gomez-portfolio.vercel.app/projects/european-football-injuries) · [Live site](https://european-football-injuries.vercel.app) · [Code](https://github.com/victorgomezadapty/european-football-injuries) · [Kaggle](https://www.kaggle.com/code/vctorandrsgmezlpez/european-football-injury-burden-review)
+
+**[HBEDB Postural Sway](https://victor-gomez-portfolio.vercel.app/projects/hbedb-postural-sway)** · Reproducible research · Participant-level analysis · Kaggle
+
+How vision and support surface change quiet-stance postural sway: closing the eyes added 0.65 cm/s more mean COP velocity on foam than on a firm surface in 158 participants with all four conditions. Includes reproducible analysis, participant-level inference and explicit clinical limits.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/hbedb-postural-sway) · [Code](https://github.com/victorgomezadapty/hbedb-postural-sway) · [Kaggle derived outputs](https://www.kaggle.com/datasets/vctorandrsgmezlpez/hbedb-quiet-stance-sway-vision-and-surface)
 
 **[Spine Diagnostic](https://victor-gomez-portfolio.vercel.app/projects/spine-diagnostic)** · Live MVP · Evidence-based screening
 
