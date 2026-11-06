@@ -4,7 +4,7 @@
 
 I work at the intersection of the human body, movement, and data. I turn signals from health, training, recovery and operations into clearer decisions for people and organizations.
 
-Based in Riyadh 🇸🇦, working as a Personal Trainer and supporting the implementation, integration, and consistent delivery of physiotherapy services across three Optimo clubs (Armah Sports). Doctoral researcher in Physical Activity and Sport (PhD in progress, expected 2028). Founder of [ADAPTY](https://adapty.global).
+Based in Riyadh 🇸🇦, working as a Personal Trainer and supporting the implementation, integration, and consistent delivery of physiotherapy services across three Optimo clubs (Armah Sports). Doctoral researcher in Physical Activity and Sport (PhD in progress, expected 2028). Founder of [ADAPTY](https://victor-gomez-portfolio.vercel.app/projects/adapty).
 
 > "I didn't leave physiotherapy to do technology. Physiotherapy is the reason the technology I build makes sense."
 
@@ -14,26 +14,209 @@ Based in Riyadh 🇸🇦, working as a Personal Trainer and supporting the imple
 
 ## 🚀 Featured projects
 
-Each name links to its full case study on the portfolio.
+These four lead the [portfolio homepage](https://victor-gomez-portfolio.vercel.app), in that order. Sports Rehab Intelligence is the connected research project. Its three component studies are nested under it, in atlas order, and counted with the other published projects below.
 
-| Project | What it is | Links |
-|---------|-------------|-------|
-| [**ACL sEMG Robustness**](https://victor-gomez-portfolio.vercel.app/projects/acl-semg-robustness)<br><sub>Research prototype · Live site · Kaggle</sub> | Same signal, different method, different answer. A reproducible study of how processing choices change bilateral sEMG ratios after ACL reconstruction, with an interactive bilingual site, a synthetic signal lab and public Kaggle notebooks. | [Live site](https://acl-semg-robustness.vercel.app) · [Code](https://github.com/victorgomezadapty/acl-semg-robustness) · [Kaggle](https://www.kaggle.com/code/vctorandrsgmezlpez/acl-semg-robustness-and-synthetic-scenarios) |
-| [**Optimo Physio Platform**](https://victor-gomez-portfolio.vercel.app/projects/optimo-physio-platform)<br><sub>In production · Internal operations tool</sub> | From a separate Excel sheet per club to one integrated system for bookings, follow-up, clinical documentation and reporting across three fitness clubs. | Private code |
-| [**Gym Digital Twin**](https://victor-gomez-portfolio.vercel.app/projects/gym-digital-twin)<br><sub>Functional prototype · Model under evaluation</sub> | Analysis of member frequency, behavioral churn risk, retention signals and business scenarios. Findings remain under observation; operational values stay private. | Private code |
-| [**Spine Diagnostic**](https://victor-gomez-portfolio.vercel.app/projects/spine-diagnostic)<br><sub>Live MVP · Evidence-based screening</sub> | A bilingual MVP connecting back-risk screening with explainable summaries and recommendations. Its spine-age visualization is educational. | [Live site](https://spine-diagnostic-six.vercel.app) · [Code](https://github.com/victorgomezadapty/spine-diagnostic) |
+### Sports Rehab Intelligence
 
-## 🧩 More projects
+Evidence atlas · Reproducible release 1.0
 
-| Project | What it is | Links |
-|---------|-------------|-------|
-| [**Wearable Exercise Physiology**](https://victor-gomez-portfolio.vercel.app/projects/wearable-exercise-physiology)<br><sub>Research prototype · Live site · Kaggle</sub> | What a wrist wearable really sees during stress, aerobic cycling and sprints: outcome-blind signal quality, participant-level statistics and machine learning tested on unseen people, with an interactive site and a public Kaggle notebook. | [Live site](https://victorgomezadapty.github.io/wearable-exercise-physiology/) · [Code](https://github.com/victorgomezadapty/wearable-exercise-physiology) · [Kaggle](https://www.kaggle.com/code/vctorandrsgmezlpez/wearable-physiology-stress-vs-exercise) |
-| [**Class Capacity Lab**](https://victor-gomez-portfolio.vercel.app/projects/class-capacity-lab)<br><sub>Research prototype · Live site · Kaggle</sub> | Booked vs. realized attendance in group classes: tenure-adjusted comparisons, an interactive bilingual dashboard and a literature-backed research agenda. | [Live site](https://class-capacity-lab.vercel.app) · [Code](https://github.com/victorgomezadapty/class-capacity-lab) · [Kaggle](https://www.kaggle.com/code/vctorandrsgmezlpez/class-capacity-lab-group-class-attendance-eda) |
-| [**ADAPTY Body Composition**](https://victor-gomez-portfolio.vercel.app/projects/adapty-body-composition)<br><sub>MVP · Synthetic demonstration data</sub> | Track body-composition changes against individual goals and generate reports for coaches and clients. Public MVP with synthetic data. | [Code](https://github.com/victorgomezadapty/adapty-body-composition) |
-| [**Physio Academy LMS**](https://victor-gomez-portfolio.vercel.app/projects/physio-academy-lms)<br><sub>Functional prototype · Education demo</sub> | Structured education, lessons, evaluations and completion tracking across teams. Functional prototype with fictional demo data. | [Code](https://github.com/victorgomezadapty/physio-academy-lms) |
-| [**PhysioFlow**](https://victor-gomez-portfolio.vercel.app/projects/physioflow)<br><sub>MVP · Human-supervised research workflow</sub> | A six-agent workflow supporting literature search and evidence synthesis, with expert human review required. | [Code](https://github.com/victorgomezadapty/physioflow) |
-| [**ADAPTY**](https://victor-gomez-portfolio.vercel.app/projects/adapty)<br><sub>Active startup · Customer discovery</sub> | An adaptive health startup in customer discovery through Misk Launchpad, with a manual pilot planned. | [adapty.global](https://adapty.global) |
-| [**Radar 30X**](https://victor-gomez-portfolio.vercel.app/projects/radar-30x)<br><sub>Live MVP · Social media research</sub> | An AI-assisted social media growth tool that gathers public topic signals, ranks them with explicit code-based weights and drafts audience-specific content ideas. | [Live site](https://radar-30x-three.vercel.app) · [Code](https://github.com/victorgomezadapty/radar-30x) |
+Three studies, one connected research direction. The evidence atlas brings movement, training histories and recorded injury consequences together through 104 source-aware definitions, a compatibility map and reproducible Kaggle materials. Each component study keeps its own population and limits.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/sports-rehab-intelligence) · [Live site](https://sports-rehab-intelligence.vercel.app) · [Code](https://github.com/victorgomezadapty/sports-rehab-intelligence) · [Kaggle](https://www.kaggle.com/code/vctorandrsgmezlpez/sports-rehab-three-study-evidence-audit)
+
+#### Running Injury Clinic
+
+Technical research pilot · event validation pending
+
+A reproducible audit of a public running-kinematics dataset, with a 30-person engineering pilot and a metadata-only review of repeated-record label variability. A 2026 paper already reports cross-sectional classification on this source. This project focuses on cohort and temporal-definition readiness and keeps official event and cycle validation as an explicit gate.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/running-injury-clinic) · [Live site](https://running-injury-clinic.vercel.app) · [Code](https://github.com/victorgomezadapty/running-injury-clinic) · [Kaggle dataset](https://www.kaggle.com/datasets/vctorandrsgmezlpez/running-injury-clinic-kinematic-pilot)
+
+#### Competitive Runners
+
+Research study · Interactive site · Open data
+
+**Competitive Runners · Training History & Injury Risk.** A longitudinal reanalysis of public competitive-running training histories: 74 masked athletes and 42,766 selected event windows, with temporal, athlete-disjoint and combined validation. The public site shows the trajectories, a modest predictive signal and the review burden.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/competitive-runners-injury-risk) · [Live site](https://competitive-runners-injury-risk.vercel.app) · [Code](https://github.com/victorgomezadapty/competitive-runners-injury-risk) · [Kaggle](https://www.kaggle.com/code/vctorandrsgmezlpez/competitive-runners-longitudinal-audit)
+
+#### Football Injury Burden
+
+Reproducible research · Live site · Kaggle
+
+The cost of being absent: 15,603 recorded absences across five European leagues, explored through a bilingual burden matrix, a recording-sensitivity audit, cited discussion and a public reproducibility release.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/european-football-injuries) · [Live site](https://european-football-injuries.vercel.app) · [Code](https://github.com/victorgomezadapty/european-football-injuries) · [Kaggle](https://www.kaggle.com/code/vctorandrsgmezlpez/european-football-injury-burden-review)
+
+### ACL sEMG Robustness
+
+Research prototype · Live site · Kaggle
+
+Same signal, different method, different answer. A reproducible study of how processing choices change bilateral sEMG ratios after ACL reconstruction, with an interactive bilingual site, a synthetic signal lab and public Kaggle notebooks.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/acl-semg-robustness) · [Live site](https://acl-semg-robustness.vercel.app) · [Code](https://github.com/victorgomezadapty/acl-semg-robustness) · [Kaggle](https://www.kaggle.com/code/vctorandrsgmezlpez/acl-semg-robustness-and-synthetic-scenarios)
+
+### Optimo Physio Platform
+
+In production · Internal operations tool
+
+From a separate Excel sheet per club to one integrated system for bookings, follow-up, clinical documentation and reporting across three fitness clubs.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/optimo-physio-platform) · Private code
+
+### Gym Digital Twin
+
+Functional prototype · Model under evaluation
+
+Analysis of member frequency, behavioral churn risk, retention signals and business scenarios. Findings remain under observation, and operational values stay private.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/gym-digital-twin) · Private code
+
+---
+
+## Projects by area
+
+19 published projects, in the portfolio order. The three Sports Rehab Intelligence studies are nested under that project and included in the 19. Each name links to its case study.
+
+### [Rehabilitation](https://victor-gomez-portfolio.vercel.app/projects#rehabilitation)
+
+8 projects. Screening, movement and measurement questions grounded in rehabilitation.
+
+**[Sports Rehab Intelligence](https://victor-gomez-portfolio.vercel.app/projects/sports-rehab-intelligence)** · Featured · Evidence atlas · Reproducible release 1.0
+
+Three studies, one connected research direction. The evidence atlas brings movement, training histories and recorded injury consequences together through 104 source-aware definitions, a compatibility map and reproducible Kaggle materials.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/sports-rehab-intelligence) · [Live site](https://sports-rehab-intelligence.vercel.app) · [Code](https://github.com/victorgomezadapty/sports-rehab-intelligence) · [Kaggle](https://www.kaggle.com/code/vctorandrsgmezlpez/sports-rehab-three-study-evidence-audit)
+
+Component studies, in atlas order:
+
+- **[Running Injury Clinic](https://victor-gomez-portfolio.vercel.app/projects/running-injury-clinic)** · Technical research pilot · event validation pending
+
+  A reproducible audit of a public running-kinematics dataset, with a 30-person engineering pilot and a metadata-only review of repeated-record label variability. Official event and cycle validation stays an explicit gate.
+
+  [Case study](https://victor-gomez-portfolio.vercel.app/projects/running-injury-clinic) · [Live site](https://running-injury-clinic.vercel.app) · [Code](https://github.com/victorgomezadapty/running-injury-clinic) · [Kaggle dataset](https://www.kaggle.com/datasets/vctorandrsgmezlpez/running-injury-clinic-kinematic-pilot)
+
+- **[Competitive Runners · Training History & Injury Risk](https://victor-gomez-portfolio.vercel.app/projects/competitive-runners-injury-risk)** · Research study · Interactive site · Open data
+
+  A longitudinal reanalysis of public competitive-running training histories: 74 masked athletes and 42,766 selected event windows, with temporal, athlete-disjoint and combined validation. The public site shows a modest predictive signal and the review burden.
+
+  [Case study](https://victor-gomez-portfolio.vercel.app/projects/competitive-runners-injury-risk) · [Live site](https://competitive-runners-injury-risk.vercel.app) · [Code](https://github.com/victorgomezadapty/competitive-runners-injury-risk) · [Kaggle](https://www.kaggle.com/code/vctorandrsgmezlpez/competitive-runners-longitudinal-audit)
+
+- **[Football Injury Burden](https://victor-gomez-portfolio.vercel.app/projects/european-football-injuries)** · Reproducible research · Live site · Kaggle
+
+  15,603 recorded absences across five European leagues, explored through a bilingual burden matrix, a recording-sensitivity audit and a public reproducibility release.
+
+  [Case study](https://victor-gomez-portfolio.vercel.app/projects/european-football-injuries) · [Live site](https://european-football-injuries.vercel.app) · [Code](https://github.com/victorgomezadapty/european-football-injuries) · [Kaggle](https://www.kaggle.com/code/vctorandrsgmezlpez/european-football-injury-burden-review)
+
+**[Spine Diagnostic](https://victor-gomez-portfolio.vercel.app/projects/spine-diagnostic)** · Live MVP · Evidence-based screening
+
+A bilingual MVP connecting back-risk screening with explainable summaries and recommendations. Its spine-age visualization is educational.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/spine-diagnostic) · [Live site](https://spine-diagnostic-six.vercel.app) · [Code](https://github.com/victorgomezadapty/spine-diagnostic)
+
+**[ACL sEMG Robustness](https://victor-gomez-portfolio.vercel.app/projects/acl-semg-robustness)** · Featured · Research prototype · Live site · Kaggle
+
+Same signal, different method, different answer. A reproducible study of how processing choices change bilateral sEMG ratios after ACL reconstruction, with an interactive bilingual site, a synthetic signal lab and public Kaggle notebooks.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/acl-semg-robustness) · [Live site](https://acl-semg-robustness.vercel.app) · [Code](https://github.com/victorgomezadapty/acl-semg-robustness) · [Kaggle](https://www.kaggle.com/code/vctorandrsgmezlpez/acl-semg-robustness-and-synthetic-scenarios)
+
+**[Chronic Low Back Pain in Saudi Arabia](https://victor-gomez-portfolio.vercel.app/projects/lumbar-saudi-dosificacion)** · Live report · ES, EN and AR
+
+A public trilingual report on chronic low back pain in Saudi Arabia. The 2026 national guideline stratifies risk and limits imaging, and none of its 11 questions says how much exercise to prescribe. The page sets that gap next to international dose guidance and states where the evidence is thin.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/lumbar-saudi-dosificacion) · [Live site](https://dosificacion-carga.vercel.app) · [Code](https://github.com/victorgomezadapty/lumbar-saudi-dosificacion)
+
+**[Pain Neuroscience Education](https://victor-gomez-portfolio.vercel.app/projects/pain-neuroscience-education)** · Live site · ES and EN · Kaggle
+
+A rehabilitation project on pain neuroscience education: what the method is, how it is dosed, and which effects remain when the comparator is another active education. Public materials are a bilingual method site, a Kaggle dataset with its notebook, and a Lab note.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/pain-neuroscience-education) · [Live site](https://pne-metodo.vercel.app) · [Code](https://github.com/victorgomezadapty/pne-metodo) · [Kaggle](https://www.kaggle.com/code/vctorandrsgmezlpez/pne-trials-open-data-review)
+
+### [Training & health](https://victor-gomez-portfolio.vercel.app/projects#training-health)
+
+3 projects. Individual goals, repeated measurements and adaptive health products.
+
+**[ADAPTY](https://victor-gomez-portfolio.vercel.app/projects/adapty)** · Active startup · Customer discovery
+
+An adaptive health startup in customer discovery through Misk Launchpad, with a manual pilot planned.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/adapty)
+
+**[ADAPTY Body Composition](https://victor-gomez-portfolio.vercel.app/projects/adapty-body-composition)** · MVP · Synthetic demonstration data
+
+Tracks body-composition changes against individual goals and generates reports for coaches and clients. The public MVP uses synthetic data.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/adapty-body-composition) · [Code](https://github.com/victorgomezadapty/adapty-body-composition)
+
+**[Wearable Exercise Physiology](https://victor-gomez-portfolio.vercel.app/projects/wearable-exercise-physiology)** · Research prototype · Live site · Kaggle
+
+What a wrist wearable records during stress, aerobic cycling and sprints: outcome-blind signal quality, participant-level statistics and machine learning tested on unseen people.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/wearable-exercise-physiology) · [Live site](https://victorgomezadapty.github.io/wearable-exercise-physiology/) · [Code](https://github.com/victorgomezadapty/wearable-exercise-physiology) · [Kaggle](https://www.kaggle.com/code/vctorandrsgmezlpez/wearable-physiology-stress-vs-exercise)
+
+### [Fitness operations](https://victor-gomez-portfolio.vercel.app/projects#fitness-operations)
+
+5 projects. Service coordination, attendance, retention signals and business decisions.
+
+**[Optimo Physio Platform](https://victor-gomez-portfolio.vercel.app/projects/optimo-physio-platform)** · Featured · In production · Internal operations tool
+
+From a separate Excel sheet per club to one integrated system for bookings, follow-up, clinical documentation and reporting across three fitness clubs.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/optimo-physio-platform) · Private code
+
+**[Gym Digital Twin](https://victor-gomez-portfolio.vercel.app/projects/gym-digital-twin)** · Featured · Functional prototype · Model under evaluation
+
+Analysis of member frequency, behavioral churn risk, retention signals and business scenarios. Findings remain under observation, and operational values stay private.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/gym-digital-twin) · Private code
+
+**[Class Capacity Lab](https://victor-gomez-portfolio.vercel.app/projects/class-capacity-lab)** · Research prototype · Live site · Kaggle
+
+Booked vs. realized attendance in group classes: tenure-adjusted comparisons, an interactive bilingual dashboard and a literature-backed research agenda.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/class-capacity-lab) · [Live site](https://class-capacity-lab.vercel.app) · [Code](https://github.com/victorgomezadapty/class-capacity-lab) · [Kaggle](https://www.kaggle.com/code/vctorandrsgmezlpez/class-capacity-lab-group-class-attendance-eda)
+
+**[OGDT Member Behavior](https://victor-gomez-portfolio.vercel.app/projects/ogdt-member-behavior)** · Research prototype · Live site · Kaggle
+
+A paid month is not a visited month: 30.4% of 84,251 regular member-months recorded no visit. Reproducible monthly attendance metrics from a real historical club archive, with a public Kaggle notebook and an interactive site.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/ogdt-member-behavior) · [Live site](https://ogdt-member-behavior.vercel.app) · [Code](https://github.com/victorgomezadapty/ogdt-member-behavior) · [Kaggle](https://www.kaggle.com/code/vctorandrsgmezlpez/ogdt-member-behavior-monthly-gym-attendance)
+
+**[Kumo vs LightGBM Gym Benchmark](https://victor-gomez-portfolio.vercel.app/projects/gym-fm-benchmark)** · Hypothesis test · GitHub · Kaggle
+
+Can a foundation model with zero training match LightGBM on gym retention? On 3,000 fully synthetic members, both tie on churn when they get the same information (ROC AUC 0.722 vs 0.720).
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/gym-fm-benchmark) · [Code](https://github.com/victorgomezadapty/gym-fm-benchmark) · [Kaggle dataset](https://www.kaggle.com/datasets/vctorandrsgmezlpez/synthetic-gym-membership-relational-dataset)
+
+### [Clinical AI](https://victor-gomez-portfolio.vercel.app/projects#clinical-ai)
+
+1 project. Human-supervised tools for working with clinical evidence.
+
+**[PhysioFlow](https://victor-gomez-portfolio.vercel.app/projects/physioflow)** · MVP · Human-supervised research workflow
+
+A six-agent workflow supporting literature search and evidence synthesis. Screening decisions, meta-analysis and GRADE-related assessments need expert human review before research or clinical use.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/physioflow) · [Code](https://github.com/victorgomezadapty/physioflow)
+
+### [Education](https://victor-gomez-portfolio.vercel.app/projects#education)
+
+1 project. Internal academies, team learning and professional development.
+
+**[Physio Academy LMS](https://victor-gomez-portfolio.vercel.app/projects/physio-academy-lms)** · Functional prototype · Education demo
+
+Structured education, lessons, evaluations and completion tracking across teams. The public demonstration uses fictional organizations and data.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/physio-academy-lms) · [Code](https://github.com/victorgomezadapty/physio-academy-lms)
+
+### [Growth](https://victor-gomez-portfolio.vercel.app/projects#growth)
+
+1 project. Social media signals, audience research and content experiments.
+
+**[Radar 30X](https://victor-gomez-portfolio.vercel.app/projects/radar-30x)** · Live MVP · Social media research
+
+An AI-assisted social media growth tool that gathers public topic signals, ranks them with explicit code-based weights and drafts audience-specific content ideas.
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/radar-30x) · [Live site](https://radar-30x-three.vercel.app) · [Code](https://github.com/victorgomezadapty/radar-30x)
 
 ---
 
@@ -112,7 +295,7 @@ Living notes on the body, movement, data, and AI. Working knowledge, written as 
 
 - 🌐 Portfolio: [victor-gomez-portfolio.vercel.app](https://victor-gomez-portfolio.vercel.app)
 - 📊 Kaggle: [kaggle.com/vctorandrsgmezlpez](https://www.kaggle.com/vctorandrsgmezlpez)
-- 🚀 ADAPTY: [adapty.global](https://adapty.global)
+- 🚀 ADAPTY: [case study](https://victor-gomez-portfolio.vercel.app/projects/adapty)
 - 💼 LinkedIn: [linkedin.com/in/victorgomezadapty](https://www.linkedin.com/in/victorgomezadapty)
 - 📧 victor.gomez9518@gmail.com
 - 📍 Riyadh, Saudi Arabia
