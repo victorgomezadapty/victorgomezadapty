@@ -165,7 +165,7 @@ From a separate Excel sheet per club to one integrated system for bookings, foll
 
 Booked vs. realized attendance in group classes: tenure-adjusted comparisons, an interactive bilingual dashboard and a literature-backed research agenda.
 
-[Case study](https://victor-gomez-portfolio.vercel.app/projects/class-capacity-lab) · [Live site](https://class-capacity-lab.vercel.app) · [Code](https://github.com/victorgomezadapty/class-capacity-lab) · [Kaggle](https://www.kaggle.com/code/vctorandrsgmezlpez/class-capacity-lab-group-class-attendance-eda)
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/class-capacity-lab) · [Live site](https://class-capacity-lab.vercel.app) · [Code](https://github.com/victorgomezadapty/class-capacity-lab) · [Kaggle](https://www.kaggle.com/code/vctorandrsgmezlpez/class-capacity-lab-group-class-attendance-study)
 
 **[OGDT Member Behavior](https://victor-gomez-portfolio.vercel.app/projects/ogdt-member-behavior)** · Research prototype · Live site · Kaggle
 
