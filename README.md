@@ -14,7 +14,7 @@ Based in Riyadh 🇸🇦, working as a Personal Trainer and supporting the imple
 
 ## 🚀 Featured projects
 
-These four lead the [portfolio homepage](https://victor-gomez-portfolio.vercel.app), in that order. Sports Rehab Intelligence is the connected research project. Its three component studies are nested under it, in atlas order, and counted with the other published projects below.
+These lead the [portfolio homepage](https://victor-gomez-portfolio.vercel.app), in that order. Sports Rehab Intelligence is the connected research project. Its three component studies are nested under it, in atlas order, and counted with the other published projects below.
 
 ### Sports Rehab Intelligence
 
@@ -56,27 +56,18 @@ Same signal, different method, different answer. A reproducible study of how pro
 
 [Case study](https://victor-gomez-portfolio.vercel.app/projects/acl-semg-robustness) · [Live site](https://acl-semg-robustness.vercel.app) · [Code](https://github.com/victorgomezadapty/acl-semg-robustness) · [Kaggle](https://www.kaggle.com/code/vctorandrsgmezlpez/acl-semg-robustness-and-synthetic-scenarios)
 
-### Optimo Physio Platform
+### Multi-site Physiotherapy Platform
 
 In production · Internal operations tool
 
 From a separate Excel sheet per club to one integrated system for bookings, follow-up, clinical documentation and reporting across three fitness clubs.
 
-[Case study](https://victor-gomez-portfolio.vercel.app/projects/optimo-physio-platform) · Private code
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/multi-site-physiotherapy-platform) · Private code
 
-### Gym Digital Twin
-
-Functional prototype · Model under evaluation
-
-Analysis of member frequency, behavioral churn risk, retention signals and business scenarios. Findings remain under observation, and operational values stay private.
-
-[Case study](https://victor-gomez-portfolio.vercel.app/projects/gym-digital-twin) · Private code
-
----
 
 ## Projects by area
 
-20 published projects, in the portfolio order. The three Sports Rehab Intelligence studies are nested under that project and included in the 20. Each name links to its case study.
+18 published projects, in the portfolio order. The three Sports Rehab Intelligence studies are nested under that project and included in the 18. Each name links to its case study.
 
 ### [Rehabilitation](https://victor-gomez-portfolio.vercel.app/projects#rehabilitation)
 
@@ -162,19 +153,13 @@ What a wrist wearable records during stress, aerobic cycling and sprints: outcom
 
 ### [Fitness operations](https://victor-gomez-portfolio.vercel.app/projects#fitness-operations)
 
-5 projects. Service coordination, attendance, retention signals and business decisions.
+3 projects. Service coordination, attendance, retention signals and business decisions.
 
-**[Optimo Physio Platform](https://victor-gomez-portfolio.vercel.app/projects/optimo-physio-platform)** · Featured · In production · Internal operations tool
+**[Multi-site Physiotherapy Platform](https://victor-gomez-portfolio.vercel.app/projects/multi-site-physiotherapy-platform)** · Featured · In production · Internal operations tool
 
 From a separate Excel sheet per club to one integrated system for bookings, follow-up, clinical documentation and reporting across three fitness clubs.
 
-[Case study](https://victor-gomez-portfolio.vercel.app/projects/optimo-physio-platform) · Private code
-
-**[Gym Digital Twin](https://victor-gomez-portfolio.vercel.app/projects/gym-digital-twin)** · Featured · Functional prototype · Model under evaluation
-
-Analysis of member frequency, behavioral churn risk, retention signals and business scenarios. Findings remain under observation, and operational values stay private.
-
-[Case study](https://victor-gomez-portfolio.vercel.app/projects/gym-digital-twin) · Private code
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/multi-site-physiotherapy-platform) · Private code
 
 **[Class Capacity Lab](https://victor-gomez-portfolio.vercel.app/projects/class-capacity-lab)** · Research prototype · Live site · Kaggle
 
@@ -187,12 +172,6 @@ Booked vs. realized attendance in group classes: tenure-adjusted comparisons, an
 A paid month is not a visited month: 30.4% of 84,251 regular member-months recorded no visit. Reproducible monthly attendance metrics from a real historical club archive, with a public Kaggle notebook and an interactive site.
 
 [Case study](https://victor-gomez-portfolio.vercel.app/projects/ogdt-member-behavior) · [Live site](https://ogdt-member-behavior.vercel.app) · [Code](https://github.com/victorgomezadapty/ogdt-member-behavior) · [Kaggle](https://www.kaggle.com/code/vctorandrsgmezlpez/ogdt-member-behavior-monthly-gym-attendance)
-
-**[Kumo vs LightGBM Gym Benchmark](https://victor-gomez-portfolio.vercel.app/projects/gym-fm-benchmark)** · Hypothesis test · GitHub · Kaggle
-
-Can a foundation model with zero training match LightGBM on gym retention? On 3,000 fully synthetic members, both tie on churn when they get the same information (ROC AUC 0.722 vs 0.720).
-
-[Case study](https://victor-gomez-portfolio.vercel.app/projects/gym-fm-benchmark) · [Code](https://github.com/victorgomezadapty/gym-fm-benchmark) · [Kaggle dataset](https://www.kaggle.com/datasets/vctorandrsgmezlpez/synthetic-gym-membership-relational-dataset)
 
 ### [Clinical AI](https://victor-gomez-portfolio.vercel.app/projects#clinical-ai)
 
