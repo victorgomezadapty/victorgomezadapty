@@ -67,7 +67,7 @@ From a separate Excel sheet per club to one integrated system for bookings, foll
 
 ## Projects by area
 
-18 published projects, in the portfolio order. The three Sports Rehab Intelligence studies are nested under that project and included in the 18. Each name links to its case study.
+19 published projects, in the portfolio order. The three Sports Rehab Intelligence studies are nested under that project and included in the 19. Each name links to its case study.
 
 ### [Rehabilitation](https://victor-gomez-portfolio.vercel.app/projects#rehabilitation)
 
@@ -153,13 +153,19 @@ What a wrist wearable records during stress, aerobic cycling and sprints: outcom
 
 ### [Fitness operations](https://victor-gomez-portfolio.vercel.app/projects#fitness-operations)
 
-3 projects. Service coordination, attendance, retention signals and business decisions.
+4 projects. Service coordination, attendance, retention signals and business decisions.
 
 **[Multi-site Physiotherapy Platform](https://victor-gomez-portfolio.vercel.app/projects/multi-site-physiotherapy-platform)** · Featured · In production · Internal operations tool
 
 From a separate Excel sheet per club to one integrated system for bookings, follow-up, clinical documentation and reporting across three fitness clubs.
 
 [Case study](https://victor-gomez-portfolio.vercel.app/projects/multi-site-physiotherapy-platform) · Private code
+
+**[Kumo vs LightGBM on a Fictional Premium Gym](https://victor-gomez-portfolio.vercel.app/projects/premium-gym-fm-benchmark)** · Hypothesis test · GitHub · Kaggle
+
+On invented data, Kumo Tabular ties a trained LightGBM on churn, revenue and visits when it gets the prepared feature table (ROC AUC 0.776 vs 0.786). On the raw relational tables, Kumo is clearly behind (0.696).
+
+[Case study](https://victor-gomez-portfolio.vercel.app/projects/premium-gym-fm-benchmark) · [Code](https://github.com/victorgomezadapty/premium-gym-fm-benchmark) · [Kaggle dataset](https://www.kaggle.com/datasets/vctorandrsgmezlpez/fictional-premium-gym-relational-dataset)
 
 **[Class Capacity Lab](https://victor-gomez-portfolio.vercel.app/projects/class-capacity-lab)** · Research prototype · Live site · Kaggle
 
